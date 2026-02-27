@@ -1,6 +1,6 @@
 <pipeline>
     <settings>
-        <timeout units="minutes">30</timeout>
+        <timeout units="minutes">20</timeout>
     </settings>
     <jobs>
         <job id="build">echo "Building..."</job>
